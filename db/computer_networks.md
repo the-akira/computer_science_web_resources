@@ -5,6 +5,7 @@
   
   ### Materials
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
+- [ArtOfTesting - The Different types of network] (https://artoftesting.com/types-of-network)
 - [Tutorialology](https://www.tutorialology.com/computer-networking/)
 - [Tutorialspoint](https://www.tutorialspoint.com/computer_fundamentals/computer_networking.htm)
 - [Basics of Computer Networking](https://www.geeksforgeeks.org/basics-computer-networking/)
