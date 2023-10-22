@@ -4,6 +4,7 @@
   <summary>English</summary>
   
   ### Materials
+- [Synthical: AI-powered collaborative research environment](https://synthical.com)
 - [Harvard Data Science](https://cs109.github.io/2015/)
 - [A History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
 - [Timeline of Machine Learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)

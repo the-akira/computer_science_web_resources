@@ -4,6 +4,7 @@
   <summary>English</summary>
   
   ### Materials
+- [Synthical: AI-powered collaborative research environment](https://synthical.com)
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [What is NLP](https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html)

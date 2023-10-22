@@ -4,6 +4,7 @@
   <summary>English</summary>
   
   ### Materials
+- [Synthical: AI-powered collaborative research environment](https://synthical.com)
 - [Wikipedia - Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
 - [History of Computer Vision](https://www.sas.com/en_us/insights/analytics/computer-vision.html)
 - [Learn Computer Vision - Kaggle](https://www.kaggle.com/learn/computer-vision)

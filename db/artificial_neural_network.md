@@ -4,6 +4,7 @@
   <summary>English</summary>
   
   ### Materials
+- [Synthical: AI-powered collaborative research environment](https://synthical.com)
 - [Artificial Neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
 - [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 - [Intro to Deep Learning - Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)
