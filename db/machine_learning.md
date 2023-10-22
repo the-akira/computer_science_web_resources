@@ -104,6 +104,7 @@
 - [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms)
 - [AI-Powered Search](https://www.manning.com/books/ai-powered-search)
 - [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp)
+  [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp)
 </details>
 
 <details>
