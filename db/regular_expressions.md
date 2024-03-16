@@ -26,6 +26,8 @@
 - [Racket-Lang](https://docs.racket-lang.org/reference/regexp.html)
 - [Bash Beginners Guide](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_01.html)
 - [Java RE](https://www.tutorialspoint.com/java/java_regular_expressions.htm)
+- [Cyrilex](https://extendsclass.com/regex-tester.html)
+- [Pyrexp](https://pythonium.net/regex)
 - [Regex101](https://regex101.com/)
 - [Ehchua](http://www.ntu.edu.sg/home/ehchua/programming/howto/regexe.html)
 - [Emacswiki](https://www.emacswiki.org/emacs/RegularExpression)
