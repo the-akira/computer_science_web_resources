@@ -53,6 +53,7 @@
 - [Java Guide](https://bbarrettchs.weebly.com/uploads/3/7/7/8/37782575/lvp_java_text.pdf)
 - [Multithreaded Programming](http://www.buyya.com/java/Chapter14.pdf)
 - [Java Tutorial - For Beginners](https://www.youtube.com/watch?v=Yv_4RXyLjL8&ab_channel=TechWithTim)
+- [Java Tutorials and Interview Questions](https://boldcoder.blogspot.com)
 </details>
 
 <details>
